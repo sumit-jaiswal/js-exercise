@@ -1,0 +1,13 @@
+I'd like to share one of my experience with you, I've created a library using core JavaScript, that library is responsible is manage all blades (HTML divs) routing, loops and two-way data binding. here I created robust routing with two-way data bindings. here some description and feature list about that library as follows: 
+
+Description: This project is similar kind of Azure portal, I've creates a library for manage all front-end actives like DOM multiplication, autonomous routing, animation, auto slid etc. all feature has implemented in pure Javascript
+Features list:
+1. Manage all HTML template via pure JavaScript component methods.
+2. Make a custom component base javascript engine. 
+3. Robust routing implemented in core JavaScript its similar kind of angularJs routing. 
+4. Make a pretty awesome animation scroller. 
+5. Multi-theme option to choose multiple views of a website. 
+
+Challenging part: 
+1. Since Jquery and Angularjs already in the market so we rarely used core javaScript but as per client requirement he wants a library in core javaScript, so it's really changing work to create whole functionality in core javaScript.
+2. In developing time we worry about the security and vulnerability of library. as this library will be used in a huge project so before creating any scenario we plant and make sure about the security concern.  
